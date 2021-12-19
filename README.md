@@ -8,4 +8,4 @@ Horiseon is a marketing company that requested a refactoring of their website's 
 https://fieldsba.github.io/horiseon_challenge/index.html
 
 # Screenshot
-./horiseon_challenge/Develop/assets/horiseon-screencap.png
+
