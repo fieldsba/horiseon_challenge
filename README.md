@@ -8,4 +8,4 @@ Horiseon is a marketing company that requested a refactoring of their website's 
 https://fieldsba.github.io/horiseon_challenge/index.html
 
 # Screenshot
-
+![alt text](./Develop/assets/images/horiseon-screencap.png "Screenshot of the deployed project")
